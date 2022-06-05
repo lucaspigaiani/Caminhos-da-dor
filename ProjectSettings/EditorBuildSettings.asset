@@ -8,4 +8,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Menu.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/ApprenticeMode.unity
+    guid: ba8d050034fd01249b3c8ab1a2c9565e
+  - enabled: 1
+    path: Assets/Scenes/ExperiencedMode.unity
+    guid: 3d8b48524dd7d3648a9952cc463d1a96
   m_configObjects: {}
